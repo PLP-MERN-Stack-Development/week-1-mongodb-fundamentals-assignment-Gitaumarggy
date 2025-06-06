@@ -31,6 +31,9 @@ You will:
 - MongoDB (local installation or Atlas account)
 - MongoDB Shell (mongosh) or MongoDB Compass
 
+## screenshot 
+![Screenshot 2025-05-28 181409.png](<Screenshot 2025-05-28 181409.png>)
+
 ## Submission
 
 Your work will be automatically submitted when you push to your GitHub Classroom repository. Make sure to:
